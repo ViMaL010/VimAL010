@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+my+profile!&center=true&size=30&width=380&height=50&duration=4000&font=Poppins&weight=700">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Delighted+to+connect!&center=true&size=30&width=380&height=50&duration=4000&font=Poppins&weight=700">
 </h1>
 
 <p align="center">I'm Vimalesh, an aspiring MERN Stack Developer passionate about crafting exceptional web experiences 🚀</p>
@@ -8,14 +8,15 @@
 
 <h2>🎯 About Me</h2>
 
-I'm a dedicated developer specializing in creating scalable and interactive systems that deliver seamless digital experiences. With a strong foundation in web development, I continuously explore cutting-edge technologies like Web 3.0 and blockchain to shape the future of the internet.
+I'm a dedicated developer with a strong focus on crafting interactive and user-friendly digital experiences. With a solid foundation in web development, I strive to deliver solutions that effectively meet user needs and create a lasting impact.
 
 <h2>🚀 Technical Journey</h2>
 
 🔒 Specialized in:
-- Implementing secure authentication systems
-- Building scalable web architectures
+- Crafting solutions that prioritize functionality, usability, and aesthetic appeal
+- Delivering seamless and engaging digital experiences
 - Developing user-centric applications
+- Building web applications with a strong foundation in modern development practices
 
 ## 💫 Core Strengths
 
